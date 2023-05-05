@@ -91,7 +91,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> Mention all of the collaborators of this project
 👤 **Authors**
 
 👤 **Shaheryar Abid**
